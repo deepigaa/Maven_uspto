@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name = "Test Suite">
+ <test name ="AppTest">
+  <classes>
+   <class name = "com.upsto.tsdr.TestTrademarkStatus_DocumentRetrieval.class"></class>
+  </classes>
+  </test>
+</suite>

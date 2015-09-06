@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="108" started-at="2015-08-11T02:33:50Z" finished-at="2015-08-11T02:33:50Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="108" started-at="2015-08-11T02:33:50Z" finished-at="2015-08-11T02:33:50Z">
+      <class name="com.uspto.tsdr.SampleTest">
+        <test-method status="PASS" signature="f()" name="f" duration-ms="34" started-at="2015-08-11T02:33:50Z" finished-at="2015-08-11T02:33:50Z">
+        </test-method>
+      </class>
+      <class name="com.uspto.tsdr.AppTest">
+        <test-method status="PASS" signature="sendMail()" name="sendMail" duration-ms="35" started-at="2015-08-11T02:33:50Z" finished-at="2015-08-11T02:33:50Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>
